@@ -17,8 +17,8 @@
   <g transform="translate(15, 10)">
     <text x="25" y="70" fill="#5865F2" font-family="'Fira Code', monospace" font-size="13">$ python bot.py</text>
 <text x="25" y="96" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[CONFIG] Loaded guild configurations and security rules</text>
-<text x="25" y="122" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[SYNC] Synced 24 native Discord application slash commands</text>
-<text x="25" y="148" fill="#3FB950" font-family="'Fira Code', monospace" font-size="13">[CONNECTED] Logged in as ServerAdmin#0001 (Ready)</text>
+<text x="25" y="122" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[SYNC] Synced native Discord application slash commands</text>
+<text x="25" y="148" fill="#3FB950" font-family="'Fira Code', monospace" font-size="13">[CONNECTED] Logged in as ServerAdmin (Ready)</text>
 <text x="25" y="174" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[RBAC] Permission hierarchy verified for authorized moderators</text>
 <text x="25" y="200" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[STATUS] Listening for moderation and server commands</text>
 
